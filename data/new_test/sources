@@ -1,0 +1,11 @@
+https://github.com/google-research-datasets/seahorse?tab=readme-ov-file
+@misc{clark2023seahorse,
+      title={SEAHORSE: A Multilingual, Multifaceted Dataset for Summarization Evaluation},
+      author={Elizabeth Clark and Shruti Rijhwani and Sebastian Gehrmann and Joshua Maynez and Roee Aharoni and Vitaly Nikolaev and Thibault Sellam and Aditya Siddhant and Dipanjan Das and Ankur P. Parikh},
+      year={2023},
+      eprint={2305.13194},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+python3 -m mt_metrics_eval.score_mqm --weights "major:5 minor:1 No-error:0 minor/Fluency/Punctuation:0.1" < mqm_generalMT2023_ende.tsv > mqm.ende.seg.score

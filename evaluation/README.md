@@ -1,0 +1,2 @@
+### Evaluation and Plotting
+The folder `evaluation` contains scripts to compute Kendall, Spearman, Pearson and tie calibrated accuracy on computed raw outputs. The folder `plots` contains scripts that created the plots in the paper. For more details, view the README files of the respective folders.
