@@ -3,7 +3,7 @@
 
 [![arXiv](https://img.shields.io/badge/View%20on%20arXiv-B31B1B?logo=arxiv&labelColor=gray)](https://arxiv.org/abs/2406.18528)
 
-This repository contains code for our paper - PrExME!: Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation . This Readme describes the basic usage. More details can be found in the respective folders and files.
+This repository contains code for our paper - PrExMe!: Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation . This Readme describes the basic usage. More details can be found in the respective folders and files.
 
 ### Setup
 To setup PrExMe!, please clone this repository and install the requirements: 
