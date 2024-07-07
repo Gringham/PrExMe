@@ -188,9 +188,6 @@ data/results
 .idea/misc.xml
 .idea/SharedTaskIterator.iml
 
-data/*/*.json
-outputs/*
-!outputs/plots
 
 simple*
 *.pyc
@@ -201,10 +198,6 @@ mt-metrics-eval
 
 few_shot_prompts_test.json
 
-second_round_prompts/*.json
-
-data/new_test/wmt_23_seahorse.tsv
-baselines/data*.json
 
 .vscode
 
